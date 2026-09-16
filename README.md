@@ -1,7 +1,10 @@
 # HeatTransferPINN
 
-<img src="images/PINN_Heat.png">
+<img src="Images/PINN_Heat.png">
 
+**Descrição da Figura:** (a) Formato esquemático do funcionamento de uma rede neural informada pela física (PINN). (b) Pontos relacionados a condições iniciais, de contorno e de resíduos (domínio). **Fonte:** Retirado de Cai et.al (2021)
+
+## Sobre o repositório
 
 Materiais computacionais da disciplina **Tópicos Especiais em Transferência de Calor utilizando Redes Neurais Informadas por Física (PINNs)**.
 
