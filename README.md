@@ -4,8 +4,6 @@ Materiais computacionais da disciplina **Tópicos Especiais em Transferência de
 
 O repositório será atualizado ao longo da disciplina com notebooks, exemplos, listas de exercícios e materiais de apoio. A proposta é conectar a física da transferência de calor, os métodos numéricos convencionais e o aprendizado de máquina científico por meio de implementações em Python.
 
-[![Abrir Aula 00 no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Notebooks/Aula00_HeatDeepXDE.ipynb)
-
 ## Sobre a disciplina
 
 ### Objetivo
@@ -30,7 +28,7 @@ O conhecimento prévio recomendado inclui **equações diferenciais ordinárias,
 
 ### Opção recomendada: Google Colab
 
-1. Abra o notebook pelo botão **Abrir no Google Colab** acima.
+1. Abra o notebook pelo botão **Open in Colab** abaixo.
 2. Execute as células em ordem, de cima para baixo.
 3. Leia os textos e observe as figuras antes de modificar os códigos.
 4. Depois, altere os parâmetros e repita os experimentos para investigar o comportamento da solução e do treinamento.
@@ -61,9 +59,9 @@ No Google Colab, a primeira célula do notebook instala o DeepXDE. O tempo de tr
 
 ## Notebook disponível
 
-| Material | Conteúdo | Situação |
-|---|---|---|
-| [`Aula00_HeatDeepXDE.ipynb`](Notebooks/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível |
+| Material | Conteúdo | Situação | Abrir no Colab
+|---|---|---|---|
+| [`Aula00_HeatDeepXDE.ipynb`](Notebooks/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Notebooks/Aula00_HeatDeepXDE.ipynb) |
 
 ### O que é estudado no notebook base
 
