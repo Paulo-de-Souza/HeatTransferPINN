@@ -4,7 +4,7 @@ Materiais computacionais da disciplina **Tópicos Especiais em Transferência de
 
 O repositório será atualizado ao longo da disciplina com notebooks, exemplos, listas de exercícios e materiais de apoio. A proposta é conectar a física da transferência de calor, os métodos numéricos convencionais e o aprendizado de máquina científico por meio de implementações em Python.
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Notebooks/Aula00_HeatDeepXDE.ipynb)
+[![Abrir Aula 00 no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Notebooks/Aula00_HeatDeepXDE.ipynb)
 
 ## Sobre a disciplina
 
