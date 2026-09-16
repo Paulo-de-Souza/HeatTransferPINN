@@ -1,5 +1,8 @@
 # HeatTransferPINN
 
+<img src="images/PINN_Heat.png">
+
+
 Materiais computacionais da disciplina **Tópicos Especiais em Transferência de Calor utilizando Redes Neurais Informadas por Física (PINNs)**.
 
 O repositório será atualizado ao longo da disciplina com notebooks, exemplos, listas de exercícios e materiais de apoio. A proposta é conectar a física da transferência de calor, os métodos numéricos convencionais e o aprendizado de máquina científico por meio de implementações em Python.
