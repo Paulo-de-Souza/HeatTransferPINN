@@ -38,9 +38,9 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 |:---:|---|---|:---:|:---:|
 | 01 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
 | 02 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
-| 03 | Prática | Soluções Numéricas de difusão 1D e 2D | Paulo | A disponibilizar |
+| 03 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | A disponibilizar |
 | 04 | Teórica | Convecção e solução de Blasius | Daniel | A disponibilizar |
-| 05 | Prática | Introdução à computação científica com Python | Paulo | A disponibilizar |
+| 05 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | A disponibilizar |
 | 06 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
 | 07 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
 | 08 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
@@ -98,6 +98,10 @@ jupyter notebook
 |---|---|---|---|
 | [`Aula00_HeatDeepXDE.ipynb`](Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) |
 
+## Materiais de apoio
+
+Para revisar pré-requisitos ou aprofundar conteúdos relacionados à disciplina, consulte os [materiais de apoio](Material_de_Apoio/README.md). Eles são opcionais e incluem indicações de cálculo, transferência de calor, métodos numéricos, redes neurais e PINNs.
+
 
 ## Sugestão de rotina de estudo
 
@@ -118,8 +122,10 @@ Uma PINN não deve ser tratada apenas como uma caixa-preta. O objetivo é entend
 ```text
 HeatTransferPINN/
 ├── Aulas_Notebooks/
-│   └── Aula00_Introcucao/
-│       └──Aula00_HeatDeepXDE.ipynb
+│   └── Aula00_Introducao/
+│       └── Aula00_HeatDeepXDE.ipynb
+├── Material_de_Apoio/
+│   └── README.md
 └── README.md
 ```
 
