@@ -1,3 +1,17 @@
+## Notebook da Aula 00
+
+### Informações Gerais 
+
+O notebook utiliza o **DeepXDE**. A biblioteca pode trabalhar com diferentes backends; nos exemplos atuais, o backend utilizado é o TensorFlow. Caso seja necessário configurá-lo manualmente:
+
+```bash
+pip install tensorflow
+export DDE_BACKEND=tensorflow        # Linux/macOS
+# set DDE_BACKEND=tensorflow         # Windows
+```
+
+No Google Colab, a primeira célula do notebook instala o DeepXDE. O tempo de treinamento pode variar conforme o ambiente, o backend, a quantidade de pontos e a inicialização aleatória da rede.
+
 ### O que é estudado no notebook base
 
 #### 1. Problema direto: equação do calor
