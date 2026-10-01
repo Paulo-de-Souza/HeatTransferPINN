@@ -30,35 +30,6 @@ Compreender os mecanismos de transferência de calor, especialmente **condução
 
 O conhecimento prévio recomendado inclui **equações diferenciais ordinárias, cálculo numérico e transferência de calor**. Não é necessário já conhecer PINNs ou DeepXDE: esses conceitos serão construídos progressivamente durante as aulas.
 
-## Como utilizar este repositório
-
-### Opção recomendada: Google Colab
-
-1. Abra o notebook pelo botão **Open in Colab** abaixo.
-2. Execute as células em ordem, de cima para baixo.
-3. Leia os textos e observe as figuras antes de modificar os códigos.
-4. Depois, altere os parâmetros e repita os experimentos para investigar o comportamento da solução e do treinamento.
-
-### Execução local
-
-```bash
-git clone https://github.com/Paulo-de-Souza/HeatTransferPINN.git
-cd HeatTransferPINN
-
-python -m venv .venv
-source .venv/bin/activate       # Linux/macOS
-# .venv\Scripts\activate       # Windows
-
-pip install deepxde numpy matplotlib jupyter
-jupyter notebook
-```
-
-## Notebooks disponíveis
-
-| Material | Conteúdo | Situação | Abrir no Colab
-|---|---|---|---|
-| [`Aula00_HeatDeepXDE.ipynb`](Notebooks/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Notebooks/Aula00_HeatDeepXDE.ipynb) |
-
 ## Mapa da disciplina
 
 O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão disponibilizados progressivamente.
@@ -97,6 +68,37 @@ $$
 
 com nota máxima igual a 10 em cada atividade. O projeto final deve aplicar uma PINN a um problema físico. Sempre que possível, recomenda-se adaptar a técnica a um tema relacionado à dissertação ou tese do estudante. O miniartigo deverá ter de 4 a 6 páginas no formato IEEE e a apresentação deverá durar no máximo 10 minutos.
 
+
+## Como utilizar este repositório
+
+### Opção recomendada: Google Colab
+
+1. Abra o notebook pelo botão **Open in Colab** abaixo.
+2. Execute as células em ordem, de cima para baixo.
+3. Leia os textos e observe as figuras antes de modificar os códigos.
+4. Depois, altere os parâmetros e repita os experimentos para investigar o comportamento da solução e do treinamento.
+
+### Execução local
+
+```bash
+git clone https://github.com/Paulo-de-Souza/HeatTransferPINN.git
+cd HeatTransferPINN
+
+python -m venv .venv
+source .venv/bin/activate       # Linux/macOS
+# .venv\Scripts\activate       # Windows
+
+pip install deepxde numpy matplotlib jupyter
+jupyter notebook
+```
+
+## Notebooks disponíveis
+
+| Material | Conteúdo | Situação | Abrir no Colab
+|---|---|---|---|
+| [`Aula00_HeatDeepXDE.ipynb`](Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) |
+
+
 ## Sugestão de rotina de estudo
 
 Para cada notebook, recomenda-se seguir esta sequência:
@@ -115,8 +117,9 @@ Uma PINN não deve ser tratada apenas como uma caixa-preta. O objetivo é entend
 
 ```text
 HeatTransferPINN/
-├── Notebooks/
-│   └── Aula00_HeatDeepXDE.ipynb
+├── Aulas_Notebooks/
+│   └── Aula00_Introcucao/
+│       └──Aula00_HeatDeepXDE.ipynb
 └── README.md
 ```
 
