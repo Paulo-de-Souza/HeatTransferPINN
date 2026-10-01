@@ -53,17 +53,7 @@ pip install deepxde numpy matplotlib jupyter
 jupyter notebook
 ```
 
-O notebook utiliza o **DeepXDE**. A biblioteca pode trabalhar com diferentes backends; nos exemplos atuais, o backend utilizado é o TensorFlow. Caso seja necessário configurá-lo manualmente:
-
-```bash
-pip install tensorflow
-export DDE_BACKEND=tensorflow        # Linux/macOS
-# set DDE_BACKEND=tensorflow         # Windows
-```
-
-No Google Colab, a primeira célula do notebook instala o DeepXDE. O tempo de treinamento pode variar conforme o ambiente, o backend, a quantidade de pontos e a inicialização aleatória da rede.
-
-## Notebook disponível
+## Notebooks disponíveis
 
 | Material | Conteúdo | Situação | Abrir no Colab
 |---|---|---|---|
@@ -73,20 +63,20 @@ No Google Colab, a primeira célula do notebook instala o DeepXDE. O tempo de tr
 
 O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão disponibilizados progressivamente.
 
-| Aula | Modalidade | Tema | Material no repositório |
-|---:|---|---|---|
-| 01 | Teórica | Introdução, motivações e dedução da equação de difusão de calor | Em organização |
-| 02 | Teórica | Simplificações da equação de difusão em 1D e 2D | A disponibilizar |
-| 03 | Teórica | Convecção e solução de Blasius | A disponibilizar |
-| 04 | Teórica | Solução por diferenças finitas, Runge-Kutta e shooting | A disponibilizar |
-| 05 | Prática | Introdução à computação científica com Python | A disponibilizar |
-| 06 | Teórica | Fundamentos de redes neurais artificiais | A disponibilizar |
-| 07 | Teórica | Introdução às Physics-Informed Neural Networks | A disponibilizar |
-| 08 | Prática | PINNs para problemas diretos | Em expansão a partir do notebook base |
-| 09 | Prática | PINNs para problemas inversos | Em expansão a partir do notebook base |
-| 10 | — | Dúvidas e alinhamentos | — |
-| 11 | — | Apresentação de seminários | — |
-| 12 | — | Apresentação de seminários | — |
+| Aula | Modalidade | Tema | Professor(es) | Disponibilidade do Material |
+|:---:|---|---|:---:|:---:|
+| 01 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
+| 02 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
+| 03 | Prática | Soluções Numéricas de difusão 1D e 2D | Paulo | A disponibilizar |
+| 04 | Teórica | Convecção e solução de Blasius | Daniel | A disponibilizar |
+| 05 | Prática | Introdução à computação científica com Python | Paulo | A disponibilizar |
+| 06 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
+| 07 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
+| 08 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
+| 09 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
+| 10 | — | Dúvidas e alinhamentos | — | — |
+| 11 | — | Apresentação de seminários | — | — |
+| 12 | — | Apresentação de seminários | — | — |
 
 O notebook base já reúne exemplos que serão aprofundados nas aulas práticas. A organização dos conteúdos em notebooks separados ocorrerá conforme a disciplina avançar.
 
