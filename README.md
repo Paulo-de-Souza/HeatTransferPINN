@@ -38,7 +38,7 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 |:---:|---|---|:---:|:---:|
 | 01 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
 | 02 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
-| 03 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | A disponibilizar |
+| 03 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
 | 04 | Teórica | Convecção e solução de Blasius | Daniel | A disponibilizar |
 | 05 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | A disponibilizar |
 | 06 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
@@ -97,6 +97,11 @@ jupyter notebook
 | Material | Conteúdo | Situação | Abrir no Colab
 |---|---|---|---|
 | [`Aula00_HeatDeepXDE.ipynb`](Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) |
+| [`Aula03_Parte0_Diferencas.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte0_DiferencasFinitas.ipynb) | Diferenças Finitas | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte0_DiferencasFinitas.ipynb) |
+| [`Aula03_Parte1_1D_Estacionario.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte1_1D_Estacionario.ipynb) | Solução Analitica e DF para 1D estacionario | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte1_1D_Estacionario.ipynb) |
+| [`Aula03_Parte2_2D_Estacionario.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte2_2D_Estacionario.ipynb) | Solução Analitica e DF para 2D estacionario | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte2_2D_Estacionario.ipynb) |
+| [`Aula03_Parte3_Transiente_CapGlobal.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte3_Transiente_CapacitanciaGlobal.ipynb) | Solução Analitica e DF para 1D transiente (Capacitância Global) | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte3_Transiente_CapacitanciaGlobal.ipynb) |
+
 
 ## Materiais de apoio
 
