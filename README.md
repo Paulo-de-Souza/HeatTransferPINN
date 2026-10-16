@@ -34,20 +34,22 @@ O conhecimento prévio recomendado inclui **equações diferenciais ordinárias,
 
 O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão disponibilizados progressivamente.
 
-| Aula | Modalidade | Tema | Professor(es) | Disponibilidade do Material |
-|:---:|---|---|:---:|:---:|
-| 01 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
-| 02 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
-| 03 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
-| 04 | Teórica | Convecção e solução de Blasius | Daniel | A disponibilizar |
-| 05 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | A disponibilizar |
-| 06 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
-| 07 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
-| 08 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
-| 09 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
-| 10 | — | Dúvidas e alinhamentos | — | — |
-| 11 | — | Apresentação de seminários | — | — |
-| 12 | — | Apresentação de seminários | — | — |
+> O cronograma atual refere-se a disciplina ministrada no Q3.2026
+
+| Aula | Data das Aulas | Modalidade | Tema | Professor(es) | Disponibilidade do Material |
+|:---:|:---:|---|---|:---:|:---:|
+| 01 | 16 / 09 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
+| 02 | 30 / 09 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
+| 03 | 07 / 10 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
+| 04 | 14 / 10 | Teórica | Convecção e solução de Blasius | Daniel | ✅ Impressões |
+| 05 | 21 / 10 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | A disponibilizar |
+| 06 | 28 / 10 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
+| 07 | 04 / 11 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
+| 08 | 11 / 11 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
+| 09 | 18 / 11 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
+| 10 | 25 / 11 | — | Dúvidas e alinhamentos | — | — |
+| 11 | 02 / 12 | — | Apresentação de seminários | — | — |
+| 12 | 09 / 12 | — | Apresentação de seminários | — | — |
 
 O notebook base já reúne exemplos que serão aprofundados nas aulas práticas. A organização dos conteúdos em notebooks separados ocorrerá conforme a disciplina avançar.
 
