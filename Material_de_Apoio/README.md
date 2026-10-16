@@ -11,7 +11,8 @@ Não é necessário assistir a todos os vídeos. Utilize as indicações de aula
 | Tema | Material | Orientação | Idioma |
 |---|---|---|---|
 | Cálculo 1 | [Revisão de Cálculo 1](https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC) | Assistir a partir da aula 16, principalmente derivadas e integrais | Português |
-| Transferência de calor | [Curso de Transferência de Calor - Condução](https://www.youtube.com/playlist?list=PLcA1IiuWE_kV9sD_6G4QDbS7lnDOYGCZu) | Estudar os vídeos de condução; desconsiderar os vídeos sobre aletas | Português |
+| Transferência de calor - Modulo 1| [Condução](https://www.youtube.com/playlist?list=PLcA1IiuWE_kV9sD_6G4QDbS7lnDOYGCZu) | Estudar os vídeos de condução; desconsiderar os vídeos sobre aletas | Português |
+| Transferência de calor - Modulo 2| [Convecção](https://www.youtube.com/playlist?list=PLcA1IiuWE_kW8kJOnZYApOF57avzviK7d) | Estudar os vídeos até as aulas de Blasius; desconsiderar o restante | Português |
 | Métodos numéricos | [Métodos Numéricos para Fenômenos de Transporte](https://www.youtube.com/playlist?list=PLoYr1qEWU88ZX_GwbCyMMmX8nWh_6UwLD) | Assistir, inicialmente, até no máximo a aula 7 | Português |
 | Redes neurais | [Neural Networks and Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) | Todas as aulas são relevantes para construir a base de aprendizado de máquina | Inglês, com opção de tradução automática |
 | PINNs e aprendizado de máquina científico | [Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa) | Todas as aulas são importantes; priorizar os vídeos relacionados a PINNs | Inglês, com tradução automática disponível em alguns vídeos |
@@ -21,7 +22,7 @@ Não é necessário assistir a todos os vídeos. Utilize as indicações de aula
 Se você está com dificuldades em vários pré-requisitos, uma sequência possível é:
 
 1. **Cálculo 1:** revisar derivadas, integrais e interpretação geométrica;
-2. **Transferência de calor:** revisar principalmente condução e a equação do calor;
+2. **Transferência de calor Módulos 1 e 2:** revisar principalmente condução, equação do calor, princípios de convecção e solução de Blasius;
 3. **Métodos numéricos:** compreender como problemas de transporte podem ser discretizados e resolvidos computacionalmente;
 4. **Redes neurais:** estudar a estrutura de uma MLP, funções de ativação, função de perda e treinamento;
 5. **PINNs:** entender como a equação diferencial, as condições iniciais, as condições de contorno e os dados entram na função de perda.
