@@ -35,6 +35,7 @@ O conhecimento prévio recomendado inclui **equações diferenciais ordinárias,
 O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão disponibilizados progressivamente.
 
 > O cronograma atual refere-se a disciplina ministrada no Q3.2026
+> Dia 23/10 teve o evento **Semana das Engenharias**
 
 | Aula | Data das Aulas | Modalidade | Tema | Professor(es) | Disponibilidade do Material |
 |:---:|:---:|---|---|:---:|:---:|
@@ -47,9 +48,9 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 | 07 | 04 / 11 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
 | 08 | 11 / 11 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
 | 09 | 18 / 11 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
-| 10 | 25 / 11 | — | Dúvidas e alinhamentos | — | — |
+| 10 | 25 / 11 | — | Apresentação de seminários | — | — |
 | 11 | 02 / 12 | — | Apresentação de seminários | — | — |
-| 12 | 09 / 12 | — | Apresentação de seminários | — | — |
+
 
 O notebook base já reúne exemplos que serão aprofundados nas aulas práticas. A organização dos conteúdos em notebooks separados ocorrerá conforme a disciplina avançar.
 
@@ -59,7 +60,7 @@ O notebook base já reúne exemplos que serão aprofundados nas aulas práticas.
 |---|---:|---|
 | Lista Prática 1 | 10% | Exercícios teóricos de condução e convecção, após a Aula 03 |
 | Lista Prática 2 | 20% | Resolução analítica ou numérica de problemas de condução 1D, 2D e da equação de Blasius com Python, após a Aula 05 |
-| Lista Prática 3 | 20% | Resolução de problemas de condução e Blasius utilizando PINNs, após a Aula 07 |
+| Lista Prática 3 | 20% | Resolução de problemas de condução e Blasius utilizando PINNs, após a Aula 08 |
 | Projeto Final | 50% | Miniartigo em formato IEEE e seminário, desenvolvido individualmente ou em dupla |
 
 A média final é calculada por
