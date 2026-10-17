@@ -43,8 +43,8 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 | 02 | 30 / 09 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
 | 03 | 07 / 10 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
 | 04 | 14 / 10 | Teórica | Convecção e solução de Blasius | Daniel | ✅ Impressões |
-| 05 | 21 / 10 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | A disponibilizar |
-| 06 | 28 / 10 | Teórica | Fundamentos de redes neurais artificiais | Paulo | A disponibilizar |
+| 05 | 21 / 10 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | ✅ GitHub |
+| 06 | 28 / 10 | Teórica | Fundamentos de redes neurais artificiais | Paulo | ✅ GitHub |
 | 07 | 04 / 11 | Teórica | Introdução às Physics-Informed Neural Networks | Paulo | A disponibilizar |
 | 08 | 11 / 11 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
 | 09 | 18 / 11 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
