@@ -56,22 +56,30 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 
 O notebook base já reúne exemplos que serão aprofundados nas aulas práticas. A organização dos conteúdos em notebooks separados ocorrerá conforme a disciplina avançar.
 
-## Avaliação
+## Avaliação e Conceitos
 
-| Atividade | Peso | Descrição |
-|---|---:|---|
-| Lista Prática 1 | 10% | Exercícios teóricos de condução e convecção, após a Aula 03 |
-| Lista Prática 2 | 20% | Resolução analítica ou numérica de problemas de condução 1D, 2D e da equação de Blasius com Python, após a Aula 05 |
-| Lista Prática 3 | 20% | Resolução de problemas de condução e Blasius utilizando PINNs, após a Aula 08 |
-| Projeto Final | 50% | Miniartigo em formato IEEE e seminário, desenvolvido individualmente ou em dupla |
+| Atividade | Peso | Descrição | Entrega |
+|---|---:|---|---|
+| Lista Prática 1 | 15% | Exercícios teóricos de condução e convecção, após a Aula 03 | 18 / 11*
+| Lista Prática 2 | 35% | Resolução analítica ou numérica de problemas de condução 1D, 2D e da equação de Blasius com Python | 18 / 11* 
+| Projeto Final | 50% | Miniartigo em formato IEEE e seminário, desenvolvido individualmente ou em dupla | 02 /12 
+
+> **Nota:** * As listas podem ser entregues até a data final da disciplina (02/12) mas não terão mais o peso cheio associado.
+
+O projeto final deve aplicar uma PINN a um problema físico. Sempre que possível, recomenda-se adaptar a técnica a um tema relacionado à dissertação ou tese do estudante. O miniartigo deverá ter de 4 a 6 páginas no formato IEEE e a apresentação deverá durar no máximo 20 minutos.
 
 A média final é calculada por
 
 $$
-\mathrm{MF}=0{,}1L_1+0{,}2L_2+0{,}2L_3+0{,}5P_F,
+\mathrm{MF}=0{,}15L_1+0{,}35L_2+0{,}5P_F,
 $$
 
-com nota máxima igual a 10 em cada atividade. O projeto final deve aplicar uma PINN a um problema físico. Sempre que possível, recomenda-se adaptar a técnica a um tema relacionado à dissertação ou tese do estudante. O miniartigo deverá ter de 4 a 6 páginas no formato IEEE e a apresentação deverá durar no máximo 10 minutos.
+Os conceitos são atribuidos como:  
+
+$$
+0\leq F < 5 \quad 5 \leq C < 7 \quad 7 \leq B < 8,5 \quad 8,5 \leq A < 10
+$$
+
 
 
 ## Como utilizar este repositório
