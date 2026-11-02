@@ -1,3 +1,11 @@
+## Sobre a Aula
+
+Esta aula é separada em duas frentes teóricas principais: Redes Neurais e PINNs. Recomenda-se que a leitura dos documentos seja feita na seguinte ordem:
+1. Notebook **Aula_Fundamentos_RNN**
+2. Arquivo **Aula_PINNsTranscal**
+3. Como complemento, as aulas de **Variações de PINNs** e **PINNs aplicadas a MECSOL**
+
+## Parte Interativa do tópico de Redes Neurais
 
 ### Gradiente Descendente
 
