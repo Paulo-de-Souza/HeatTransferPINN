@@ -41,16 +41,17 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 | Aula | Data das Aulas | Modalidade | Tema | Professor(es) | Disponibilidade do Material |
 |:---:|:---:|---|---|:---:|:---:|
 | 01 | 16 / 09 | Teórica | Introdução, motivações e dedução da equação de difusão de calor |Daniel e Paulo| ✅ GitHub e Impressões |
-| 02 | 23 / 09 | - | Evento | - | - |
-| 03 | 30 / 09 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
-| 04 | 07 / 10 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
-| 05 | 14 / 10 | Teórica | Convecção e solução de Blasius | Daniel | ✅ Impressões |
-| 06 | 21 / 10 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | ✅ GitHub |
-| 07 | 04 / 11 | Teórica | Fundamentos de redes neurais artificiais e Introdução às PINNs | Paulo | ✅ GitHub |
-| 08 | 11 / 11 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
-| 09 | 18 / 11 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
-| 10 | 25 / 11 | — | Apresentação de seminários | — | — |
-| 11 | 02 / 12 | — | Apresentação de seminários | — | — |
+| - | 23 / 09 | - | Evento | - | - |
+| 02 | 30 / 09 | Teórica | Simplificações da equação de difusão em 1D e 2D | Daniel | ✅ SIGAA e Impressões |
+| 03 | 07 / 10 | Prática | Programando soluções Analíticas e Numéricas de difusão 1D e 2D | Paulo | ✅ GitHub |
+| 04 | 14 / 10 | Teórica | Convecção e solução de Blasius | Daniel | ✅ Impressões |
+| 05 | 21 / 10 | Prática | Programando soluções Analíticas e Numéricas de convecção e Blasius | Paulo | ✅ GitHub |
+| - | 28 / 10 | - | Feriado | - | - |
+| 06 | 04 / 11 | Teórica | Fundamentos de redes neurais artificiais e Introdução às PINNs | Paulo | ✅ GitHub |
+| 07 | 11 / 11 | Prática | PINNs para problemas diretos | Paulo | A disponibilizar |
+| 08 | 18 / 11 | Prática | PINNs para problemas inversos | Paulo | A disponibilizar |
+| 09 | 25 / 11 | — | Apresentação de seminários | — | — |
+| 10 | 02 / 12 | — | Apresentação de seminários | — | — |
 
 
 O notebook base já reúne exemplos que serão aprofundados nas aulas práticas. A organização dos conteúdos em notebooks separados ocorrerá conforme a disciplina avançar.
