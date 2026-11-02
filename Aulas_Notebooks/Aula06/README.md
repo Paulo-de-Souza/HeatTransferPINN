@@ -5,6 +5,8 @@ Esta aula é separada em duas frentes teóricas principais: Redes Neurais e PINN
 2. Arquivo **Aula_PINNsTranscal**
 3. Como complemento, as aulas de **Variações de PINNs** e **PINNs aplicadas a MECSOL**
 
+> Nota: A aula de PINNs em MECSOL é do conteúdo de uma disciplina da POSMEC e que foi lecionada com o Prof Dr. Wallace Gusmão em 2025.
+
 ## Parte Interativa do tópico de Redes Neurais
 
 ### Gradiente Descendente
