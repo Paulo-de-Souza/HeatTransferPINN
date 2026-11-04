@@ -58,7 +58,7 @@ O notebook base já reúne exemplos que serão aprofundados nas aulas práticas.
 
 ## Avaliação e Conceitos
 
-| Atividade | Peso | Descrição | Entrega |
+| Atividade | Peso | Descrição | Data de Entrega |
 |---|---:|---|---|
 | Lista Prática 1 | 15% | Exercícios teóricos de condução e convecção, após a Aula 03 | 18 / 11*
 | Lista Prática 2 | 35% | Resolução analítica ou numérica de problemas de condução 1D, 2D e da equação de Blasius com Python | 18 / 11* 
@@ -73,6 +73,8 @@ A média final é calculada por
 $$
 \mathrm{MF}=0{,}15L_1+0{,}35L_2+0{,}5P_F,
 $$
+
+A nota do $P_F$ será composta pela média da soma das notas do **Artigo** e da **Apresentação**: $P_F = (N_{Ar} + N_{Ap}) / 2 $ 
 
 Os conceitos são atribuidos como:  
 
