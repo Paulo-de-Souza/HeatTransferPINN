@@ -107,17 +107,6 @@ pip install deepxde numpy matplotlib jupyter
 jupyter notebook
 ```
 
-## Notebooks disponíveis
-
-| Material | Conteúdo | Situação | Abrir no Colab
-|---|---|---|---|
-| [`Aula00_HeatDeepXDE.ipynb`](Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) | Problemas diretos e inversos de calor e difusão utilizando DeepXDE | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula00_Introducao/Aula00_HeatDeepXDE.ipynb) |
-| [`Aula03_Parte0_Diferencas.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte0_DiferencasFinitas.ipynb) | Diferenças Finitas | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte0_DiferencasFinitas.ipynb) |
-| [`Aula03_Parte1_1D_Estacionario.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte1_1D_Estacionario.ipynb) | Solução Analitica e DF para 1D estacionario | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte1_1D_Estacionario.ipynb) |
-| [`Aula03_Parte2_2D_Estacionario.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte2_2D_Estacionario.ipynb) | Solução Analitica e DF para 2D estacionario | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte2_2D_Estacionario.ipynb) |
-| [`Aula03_Parte3_Transiente_CapGlobal.ipynb`](Aulas_Notebooks/Aula03/Aula03_Parte3_Transiente_CapacitanciaGlobal.ipynb) | Solução Analitica e DF para 1D transiente (Capacitância Global) | Disponível | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulo-de-Souza/HeatTransferPINN/blob/main/Aulas_Notebooks/Aula03/Aula03_Parte3_Transiente_CapacitanciaGlobal.ipynb) |
-
-
 ## Materiais de apoio
 
 Para revisar pré-requisitos ou aprofundar conteúdos relacionados à disciplina, consulte os [materiais de apoio](Material_de_Apoio/README.md). Eles são opcionais e incluem indicações de cálculo, transferência de calor, métodos numéricos, redes neurais e PINNs.
