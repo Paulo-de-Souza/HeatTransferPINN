@@ -49,7 +49,7 @@ O cronograma possui 12 aulas de quatro horas semanais. Os materiais serão dispo
 | - | 28 / 10 | - | Feriado | - | - |
 | 06 | 04 / 11 | Teórica | Fundamentos de redes neurais artificiais e Introdução às PINNs | Paulo | ✅ GitHub |
 | 07 | 11 / 11 | Prática | Teoria de Redes Neurais e PINNs | Paulo | ✅ GitHub |
-| 08 | 18 / 11 | Prática | PINNs para problemas diretos e inversos | Paulo | A disponibilizar |
+| 08 | 18 / 11 | Prática | PINNs para problemas diretos e inversos | Paulo | ✅ GitHub |
 | 09 | 25 / 11 | — | Sem aula | — | — |
 | 10 | 02 / 12 | — | Apresentação de seminários | — | — |
 
