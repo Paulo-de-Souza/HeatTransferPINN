@@ -8,7 +8,7 @@ Esta aula apresenta a aplicação de redes neurais informadas pela física (PINN
 
 - **Aula08_02 — Problema 1D direto com geração:** solução de uma parede com geração uniforme de calor. O notebook compara uma implementação inicial, uma formulação corrigida e uma formulação normalizada, considerando casos com e sem dados.
 
-- **Aula08_03 — Problema 1D inverso:** identificação do parâmetro \(C=\dot q/k\) a partir de dados internos de temperatura. O notebook acompanha a evolução do parâmetro durante o treinamento.
+- **Aula08_03 — Problema 1D inverso:** identificação do parâmetro $C=\dot q/k$ a partir de dados internos de temperatura. O notebook acompanha a evolução do parâmetro durante o treinamento.
 
 ## O que se espera compreender
 
